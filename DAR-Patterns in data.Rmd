@@ -51,10 +51,10 @@ The two way table is indispensable to this assignment's goal due to the notewort
 histogram(~pushups|position,data=pushups,
           type="count",
           main="most pushups by position",
-          xlabs="weight")
+          xlabs="pushups")
 
 ```
-
+The 
 
 
 ## Numerical Results
